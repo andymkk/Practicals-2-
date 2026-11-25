@@ -1,0 +1,9 @@
+# Ignore compiled programs (files with no extension inside the week folders)
+Week-*/*/*
+!Week-*/*/*.*
+
+# Other build output and generated files
+*.exe
+*.out
+*.o
+sum.txt
